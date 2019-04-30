@@ -1,1 +1,1 @@
-# TestAutomationWork
+In this class project i was supposed to test a mimic e-store. Task was to test all the processes which happens from selecting and buying a product to purchase a product through through bank card. Mimic store was www.automationpractice.com
